@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nur2810.Nur2810">
+<h1 align="center">
+  <a href="https://github.com/Nur2810">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
+  </a>
+
 ## Hi there 👋
 
 <!--
